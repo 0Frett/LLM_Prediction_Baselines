@@ -1,0 +1,6 @@
+/home/frett/.local/lib/python3.8/site-packages/torchvision/io/image.py:11: UserWarning: Failed to load image Python extension: libtorch_cuda_cu.so: cannot open shared object file: No such file or directory
+  warn(f"Failed to load image Python extension: {e}")
+Testing ...
+  0%|          | 0/1184 [00:00<?, ?it/s]  0%|          | 1/1184 [00:01<24:35,  1.25s/it]  3%|▎         | 36/1184 [00:01<00:31, 36.58it/s]  7%|▋         | 82/1184 [00:01<00:12, 89.80it/s] 12%|█▏        | 144/1184 [00:01<00:06, 170.80it/s] 17%|█▋        | 197/1184 [00:01<00:04, 234.38it/s] 21%|██        | 244/1184 [00:01<00:03, 269.48it/s] 27%|██▋       | 322/1184 [00:01<00:02, 377.00it/s] 37%|███▋      | 435/1184 [00:01<00:01, 549.69it/s] 46%|████▌     | 540/1184 [00:02<00:00, 666.90it/s] 53%|█████▎    | 633/1184 [00:02<00:00, 734.91it/s] 62%|██████▏   | 731/1184 [00:02<00:00, 792.65it/s] 70%|███████   | 833/1184 [00:02<00:00, 855.48it/s] 83%|████████▎ | 977/1184 [00:02<00:00, 1019.31it/s] 93%|█████████▎| 1107/1184 [00:02<00:00, 1099.85it/s]100%|██████████| 1184/1184 [00:02<00:00, 445.98it/s] 
+train_img_test_text-tab
+Testing | loss = 0.530
