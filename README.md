@@ -16,3 +16,6 @@ Both baselines shared the same downstream model, which are saved in the _classif
 ### Visualization
 Visualization of embeddings transfer using UMAP for several combinations are saved in _visualization_ folder. Used _visualize.sh_ to visualize other modalities transfer. 
 
+### Hyperparameters
+See the _hyperparameters_ folder for baseline configs and args settings.
+
